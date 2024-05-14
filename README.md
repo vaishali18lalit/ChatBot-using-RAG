@@ -3,12 +3,10 @@ Implement RAG (Retrieval Augmented Generation) for answering questions about EU 
 
 ## Introduction
 ------------
-EU AI Act ChatBot is a Python application that allows you to chat about the uploaded EU AI act PDF. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a Open AI language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs. Here It can work for other PDF documents as well.
+EU AI Act ChatBot is a Python application that allows you to chat about the uploaded EU AI act PDF. You can ask questions about the uploaded EU AI Act using natural language, and the application will provide relevant responses based on the ACT. This app utilizes a Open AI language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs. Here It can work for other PDF documents as well.
 
 ## How It Works
 ------------
-
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
